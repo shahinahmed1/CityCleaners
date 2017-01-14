@@ -49,17 +49,17 @@
             <div class="collapse navbar-toggleable-sm" id="navbarResponsive">
                 <ul class="nav navbar-nav float-md-right">
 				 <li class="nav-item">
-                        <a class="nav-link page-scroll" href="index.html">Home</a>
+                        <a class="nav-link page-scroll" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="index.html">Services</a>
+                        <a class="nav-link page-scroll" href="index.php">Services</a>
                     </li>
                    
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="index.html">About</a>
+                        <a class="nav-link page-scroll" href="index.php">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="index.html">Contact</a>
+                        <a class="nav-link page-scroll" href="index.php">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -1244,14 +1244,17 @@
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
+	
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+	
+	  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
     <!-- Contact Form JavaScript -->
     <script src="js/jqBootstrapValidation.js"></script>
     <script src="js/contact_me.js"></script>
 
     <!-- Theme JavaScript -->
-    <script src="js/agency.min.js"></script>
+    <!--<script src="js/agency.min.js"></script> -->
 
 </body>
 

@@ -175,7 +175,7 @@
 						<h3>End Of Tenancy Cleaning</h3>
 							<div class="divider clearfix"></div>
 						
-					<a href="Price.html">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
+					<a href="Price.php">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
 				</div>
 			</div>
 				
@@ -193,7 +193,7 @@
 						<h3>After Builders Cleaning</h3>
 							<div class="divider clearfix"></div>
 					
-					<a href="Price.html">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
+					<a href="Price.php">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
 				</div>
 			</div>
 				
@@ -212,7 +212,7 @@
 						<br/>
 							<div class="divider clearfix"></div>
 					
-					<a href="Price.html">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
+					<a href="Price.php">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
 				</div>
 			</div>
 				
@@ -232,7 +232,7 @@
 						<br/>
 							<div class="divider clearfix"></div>
 						
-					<a href="Price.html">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
+					<a href="Price.php">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
 				</div>
 			</div>
 				
@@ -250,7 +250,7 @@
 						<br/>
 							<div class="divider clearfix"></div>
 						
-					<a href="Price.html">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
+					<a href="Price.php">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
 				</div>
 			</div>
 				
@@ -268,7 +268,7 @@
 						<h3>Other Cleaning Services </h3>
 							<div class="divider clearfix"></div>
 						
-					<a href="Price.html">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
+					<a href="Price.php">Read More <i class="pl-5 fa fa-angle-double-right"></i></a>
 				</div>
 			</div>
 			
