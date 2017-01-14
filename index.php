@@ -31,8 +31,11 @@
 	<link href="css/section.css" rel="stylesheet">
 	
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> -->
+ <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+ 
+ 
+ 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -285,7 +288,7 @@
         <div class="container">
             <div class="row">
              
-				 <div class="col-lg-12 text-xs-center">
+				 <div class="col-lg-12 text-xs-right">
                     <h2 class="section-heading">About us</h2>
                        </div>
 					   <div class="col-lg-12 text-xs-left">

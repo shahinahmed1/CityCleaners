@@ -46,7 +46,7 @@
             <button class="btn btn-primary btn-toggle hidden-md-up float-xs-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">Menu <i class="fa fa-bars"></i></button>
             <!-- Clearfix with a utility class added to allow for better navbar responsiveness. -->
             <div class="clearfix hidden-md-up"></div>
-            <div class="collapse navbar-toggleable-sm" id="navbarResponsive">
+            <div class="collapse navbar-toggleable-sm right" id="navbarResponsive" >
                 <ul class="nav navbar-nav float-md-right">
 				 <li class="nav-item">
                         <a class="nav-link page-scroll" href="index.php">Home</a>
