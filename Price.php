@@ -26,8 +26,8 @@
 
 	   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
        <link href="css/agency.min.css" rel="stylesheet">
-   <link href="css/section.css" rel="stylesheet">
-
+		<link href="css/section.css" rel="stylesheet">
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -46,8 +46,8 @@
             <button class="btn btn-primary btn-toggle hidden-md-up float-xs-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">Menu <i class="fa fa-bars"></i></button>
             <!-- Clearfix with a utility class added to allow for better navbar responsiveness. -->
             <div class="clearfix hidden-md-up"></div>
-            <div class="collapse navbar-toggleable-sm right" id="navbarResponsive" >
-                <ul class="nav navbar-nav float-md-right">
+            <div class="collapse navbar-toggleable-sm " id="navbarResponsive" >
+                <ul class="nav navbar-nav float-md-">
 				 <li class="nav-item">
                         <a class="nav-link page-scroll" href="index.php">Home</a>
                     </li>
